@@ -2,12 +2,14 @@
     background: #D5B0AC;
     color: #402E2A;
     text-align: center;
+    
 }
 .menu span{
     line-height: 30px;
+    
+    width: 100px;
     display: inline-block;
     font-weight: bold;
-    width: 100px;
 }
 span:hover{
     color: #FFFFFF;
@@ -16,7 +18,8 @@ span:hover{
 
 .menu_vertical{
     display: block;
-  width: 100px;
+
+    width: 100px;
     background: #D5B0AC;
     color: #402E2A;
     text-align: center;
